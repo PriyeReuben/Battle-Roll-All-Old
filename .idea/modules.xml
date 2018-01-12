@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Battle Roll All.iml" filepath="$PROJECT_DIR$/.idea/Battle Roll All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CSV Stuff/.idea/CSV Stuff.iml" filepath="$PROJECT_DIR$/../CSV Stuff/.idea/CSV Stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data Structures/.idea/Data Structures.iml" filepath="$PROJECT_DIR$/../Data Structures/.idea/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Kivy/.idea/Kivy.iml" filepath="$PROJECT_DIR$/../Kivy/.idea/Kivy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MatplotlibStuff/.idea/MatplotlibStuff.iml" filepath="$PROJECT_DIR$/../MatplotlibStuff/.idea/MatplotlibStuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Numpy Stuff/.idea/Numpy Stuff.iml" filepath="$PROJECT_DIR$/../Numpy Stuff/.idea/Numpy Stuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOP/.idea/OOP.iml" filepath="$PROJECT_DIR$/../OOP/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Requests/.idea/Requests.iml" filepath="$PROJECT_DIR$/../Requests/.idea/Requests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Verbosity/.idea/Verbosity.iml" filepath="$PROJECT_DIR$/../Verbosity/.idea/Verbosity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wage_Guage/.idea/Wage_Guage.iml" filepath="$PROJECT_DIR$/../Wage_Guage/.idea/Wage_Guage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebScrapingPractice/.idea/WebScrapingPractice.iml" filepath="$PROJECT_DIR$/../WebScrapingPractice/.idea/WebScrapingPractice.iml" />
+    </modules>
+  </component>
+</project>
